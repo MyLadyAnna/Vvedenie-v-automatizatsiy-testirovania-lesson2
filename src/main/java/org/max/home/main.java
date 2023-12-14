@@ -23,5 +23,6 @@ public class main {
         box1.print();
 
         System.out.println(box1.getCountToy());
+        //Неплохо было бы создать общий Box т добавить туда box1 и box2 и посчитать общее кол-во игрущек в нём.
     }
 }
